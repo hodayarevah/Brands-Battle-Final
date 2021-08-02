@@ -1,0 +1,23 @@
+{
+  "name": "react-native-bubble-select",
+  "version": "0.6.0",
+  "summary": "An easy-to-use customizable bubble animation picker, similar to the Apple Music genre selection",
+  "homepage": "https://github.com/jesster2k10/react-native-bubble-select#readme",
+  "license": "MIT",
+  "authors": "Jesse Onolememen <jesseono91@gmail.com> (https://github.com/jesster2k10)",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/jesster2k10/react-native-bubble-select.git",
+    "tag": "0.6.0"
+  },
+  "source_files": "ios/**/*.{h,m,swift}",
+  "swift_versions": "5.0",
+  "dependencies": {
+    "React": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}
